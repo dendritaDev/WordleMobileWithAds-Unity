@@ -3,7 +3,11 @@ My first mobile game with Ads.
 
 Playstore Link:
 
-## Gif
+## Video
+
+
+https://github.com/dendritaDev/WordleMobileWithAds/assets/107819892/da3f65b9-1917-4bfc-a3f7-43423051c33d
+
 
 ## Features
   - Design Patterns: Singleton and Observer
