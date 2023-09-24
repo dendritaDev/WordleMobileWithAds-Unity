@@ -4,7 +4,7 @@ My first mobile game with Ads.
 Playstore Link:
 
 ## Video (Sound on!!)
-
+You can also download the video, attached in the repository;
 
 https://github.com/dendritaDev/WordleMobileWithAds/assets/107819892/da3f65b9-1917-4bfc-a3f7-43423051c33d
 
