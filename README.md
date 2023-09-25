@@ -1,5 +1,5 @@
 # WordleMobileWithAds
-My first mobile game with Ads.
+My first mobile game with Ads: Banner, Intersitial AD, Rewarded AD
 
 Playstore Link:
 
