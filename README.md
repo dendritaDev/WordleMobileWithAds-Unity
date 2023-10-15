@@ -1,7 +1,7 @@
 # WordleMobileWithAds
 My first mobile game with Ads: Banner, Intersitial AD, Rewarded AD
 
-Playstore Link:
+Playstore Link: https://play.google.com/store/apps/details?id=com.DendritaDev.WordFinder
 
 ## Video (Sound on!!)
 You can also download the video, attached in the repository;
