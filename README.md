@@ -23,8 +23,15 @@ https://github.com/dendritaDev/WordleMobileWithAds/assets/107819892/da3f65b9-191
   - Managers: Input, Word, Game, UI, Data, Hint, Settings, Haptics, Sound and ADs
 
 ## Images
-![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game1.png)
-![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game2.png)
-![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Lose.png)
-![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/MainMenu.png)
-![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Win.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game1.png" alt="Game 1"></td>
+    <td><img src="https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game2.png" alt="Game 2"></td>
+    <td><img src="https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Lose.png" alt="Lose"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/MainMenu.png" alt="Main Menu"></td>
+    <td><img src="https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Win.png" alt="Win"></td>
+    <td></td>
+  </tr>
+</table>
