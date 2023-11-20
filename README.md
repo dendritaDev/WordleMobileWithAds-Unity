@@ -21,3 +21,10 @@ https://github.com/dendritaDev/WordleMobileWithAds/assets/107819892/da3f65b9-191
   - Hints system(2 different types of hints) using virtual money in the game
   - UI Tweening with DOTween Pro
   - Managers: Input, Word, Game, UI, Data, Hint, Settings, Haptics, Sound and ADs
+
+## Images
+![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game1.png)
+![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Game2.png)
+![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Lose.png)
+![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/MainMenu.png)
+![](https://github.com/dendritaDev/WordleMobileWithAds/blob/main/Screenshots/Win.png)
