@@ -4,10 +4,8 @@ My first mobile game with Ads: Banner, Intersitial AD, Rewarded AD
 Playstore Link: https://play.google.com/store/apps/details?id=com.DendritaDev.WordFinder
 
 ## Video (Sound on!!)
-You can also download the video, attached in the repository;
 
 https://github.com/dendritaDev/WordleMobileWithAds/assets/107819892/da3f65b9-1917-4bfc-a3f7-43423051c33d
-
 
 ## Features
   - Design Patterns: Singleton and Observer
